@@ -54,7 +54,7 @@ Before cloning and using this application, you'll need to install these things o
 ## Installation
 You can install this application by cloning this repository into your current working directory:
 ```sh
-git clone https://github.com/theEmperorofDaiViet/watering-system.git
+git clone https://github.com/Sriniha/Plant-Watering-System-using-Fuzzy-Logic.git
 ```
 After cloning the repository, you can open the project by Visual Studio Code.
 
