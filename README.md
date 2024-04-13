@@ -90,19 +90,11 @@ As usual, the app should automatically open in a new tab in your browser. It run
 </p>
 
 - The home page includes a sidebar to navigate through other pages and enter input. The default input is 20°C in temperature, 50% in soil moisture, and 500 µmol/m²/s in light intensity (PAR).
-- I change the temperature to 27°C, the soil moisture to 48% and the light intensity to 723 µmol/m²/s, then click <kbd>Nộp</kbd> to submit.
+- I change the temperature to 27°C, the soil moisture to 48% and the light intensity to 723 µmol/m²/s, then click <kbd>Submit</kbd> to submit.
 - The calculations, the plots and the final result are displayed.
 - Finally, I navigate to the <b><i>lib</i></b> page to get the result calculated by the [*skfuzzy*](https://pythonhosted.org/scikit-fuzzy/) library.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-# Contact
-You can contact me via:
-* [![GitHub][GitHub-shield]][GitHub-url]
-* [![LinkedIn][LinkedIn-shield]][LinkedIn-url]
-* ![Gmail][Gmail-shield]:&nbsp;<i>Khiet.To.05012001@gmail.com</i>
-* [![Facebook][Facebook-shield]][Facebook-url]
-* [![Twitter][Twitter-shield]][Twitter-url]
 
 <br/>
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -128,8 +120,6 @@ You can contact me via:
 [SQLite-shield]: https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white
 [SQLite-url]: https://www.sqlite.org/index.html
 
-<!-- Contact -->
-[GitHub-shield]: https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white
 [GitHub-url]: https://github.com/theEmperorofDaiViet
 [LinkedIn-shield]: https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white
 [LinkedIn-url]: https://www.linkedin.com/in/khiet-to/
